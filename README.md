@@ -130,7 +130,7 @@ Example deployment using Remix IDE:
 2. Compile the contract using Solidity compiler version 0.8.0 or above.
 3. Deploy the contract, specifying the initial supply in the deployment parameters.
 
-## Ownwer
+## Owner
 
 Yash Dhiman
 
